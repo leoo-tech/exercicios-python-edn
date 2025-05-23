@@ -1,0 +1,5 @@
+Esta é a primeira frase do arquivo.
+Python é uma linguagem de programação poderosa.
+Manipular arquivos é uma tarefa comum.
+Adicionando mais uma linha com o modo append.
+Esta é a última frase adicionada.
